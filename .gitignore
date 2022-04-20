@@ -114,3 +114,17 @@ dist
 
 # self
 .temp
+node_modules/
+Notes/.vuepress/.cache/
+Notes/.vuepress/.temp/
+Notes/.vuepress/dist/
+
+node_modules/
+theme_hope/.vuepress/.cache/
+theme_hope/.vuepress/.temp/
+theme_hope/.vuepress/dist/
+
+node_modules/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
